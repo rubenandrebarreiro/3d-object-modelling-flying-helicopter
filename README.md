@@ -1,0 +1,2 @@
+# 3d-object-modelling-helicopter
+A 3rd year's project, of the BSc. degree made in FCT NOVA, in the subject of Computer Graphics and Interfaces. This project was built using HTML, CSS, JavaScript and WebGL. The application allows to drive a flying Helicopter above a city, all using 3D Modelling and 3D Objects. The Helicopter it's drived using the keyboard and you can see all the action of multiple angles, using an Axonometric Projection! 
