@@ -46,12 +46,12 @@
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/screenshot-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/JPGs/screenshot-1.jpg)
 ######  3D Object Modelling (Flying Helicopter) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-modelling-flying-helicopter/master/imgs/JPGs/screenshot-2.jpg)
 ######  3D Object Modelling (Flying Helicopter) - Screenshot #2
 
 ***
